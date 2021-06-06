@@ -1,12 +1,12 @@
 body{ 
-		background-image:url('image.jpeg');
+		background-image:url(image.jpeg);
 	    background-size: cover; 
 		height: 500px;	
 	}
     /*Home*/ 
 	.jumbotron{
 	    text-align :center ;
-	    background-image:url('image.jpeg');
+	    background-image:url(image.jpeg';
 	    background-size: cover; 
 	    height: 700px;
 	    margin-top: -120px
